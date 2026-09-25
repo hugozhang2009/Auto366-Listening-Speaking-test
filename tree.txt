@@ -1,0 +1,280 @@
+E:.
+|   tree.txt
+|   
++---0B41A518CEEDD7AD3B653F5F05341E85
+|   |   original.html.u3enc
+|   |   questionData.js.u3enc
+|   |   repeat.html.u3enc
+|   |   
+|   +---media
+|   |       3.1-ZC.mp3
+|   |       3.1.1.mp3 五答第一答第1种答案
+|   |       3.1.2.mp3 五答第一答第2种答案
+|   |       C45E1F412B887A7B78950936B18B5256.mp3 五答第一答作者问题
+|   |       
+|   \---net
+|       |   1.net
+|       |   10B.net
+|       |   11B.net
+|       |   12B.net
+|       |   13B.net
+|       |   2.net
+|       |   3.net
+|       |   4.net
+|       |   5.net
+|       |   6.net
+|       |   7.net
+|       |   8.net
+|       |   9B.net
+|       |   
+|       \---psdata_partb
+|               answer.json
+|               
++---2BF8A496BEAF7259999617EB3AB3F358
+|   |   original.html.u3enc
+|   |   questionData.js.u3enc
+|   |   repeat.html.u3enc
+|   |   
+|   +---media
+|   |       3.4-ZC.mp3
+|   |       3.4.1.mp3 五答第四答第1种答案
+|   |       3.4.3.mp3 五答第四答第2种答案
+|   |       ED3F2A60BA5AC7A5B00237068B4678DD.mp3 五答第四答作者问题
+|   |       
+|   \---net
+|       |   1.net
+|       |   10B.net
+|       |   11B.net
+|       |   2.net
+|       |   3.net
+|       |   4B.net
+|       |   5B.net
+|       |   6B.net
+|       |   7B.net
+|       |   8B.net
+|       |   9B.net
+|       |   
+|       \---psdata_partb
+|               answer.json
+|               
++---3D6F7167A017AA2B5713E9105215FC11
+|   |   original.html.u3enc
+|   |   questionData.js.u3enc
+|   |   repeat.html.u3enc
+|   |   
+|   +---media
+|   |       3.3-ZC.mp3
+|   |       3.3.1.mp3 五答第三答第1种答案
+|   |       3.3.3.mp3 五答第三答第2种答案
+|   |       D675E2CC49981400AB1448FC58C51007.mp3 五答第三答作者问题
+|   |       
+|   \---net
+|       |   1.net
+|       |   10B.net
+|       |   11B.net
+|       |   12B.net
+|       |   2.net
+|       |   3.net
+|       |   4.net
+|       |   5B.net
+|       |   6B.net
+|       |   7B.net
+|       |   8B.net
+|       |   9B.net
+|       |   
+|       \---psdata_partb
+|               answer.json
+|               
++---40D11CBAF074CF4363DA221D2947416D
+|   |   original.html.u3enc
+|   |   questionData.js.u3enc
+|   |   repeat.html.u3enc
+|   |   
+|   +---media
+|   |       0920BB98D7EFB2B40C9B984F568D1CD2.mp4 PartA视频
+|   |       1-ZC.mp3 PartA音频
+|   |       
+|   \---net
+|       |   1.net
+|       |   10.net
+|       |   2.net
+|       |   3.net
+|       |   4.net
+|       |   5.net
+|       |   6.net
+|       |   7.net
+|       |   8.net
+|       |   9.net
+|       |   
+|       \---psdata
+|               answer.json
+|               
++---424A79C7CB071447A7CDA3B1828D928E
+|   |   original.html.u3enc
+|   |   questionData.js.u3enc
+|   |   repeat.html.u3enc
+|   |   
+|   +---media
+|   |       121E992775C92BF2F19B6DA153B2A93A.mp4 PartB视频
+|   |       2.1-ZC.mp3 三问第一问作者回答
+|   |       2.1.1.mp3 三问第一问第1种答案
+|   |       2.1.2.mp3 三问第一问第2种答案
+|   |       
+|   \---net
+|       |   1.net
+|       |   10B.net
+|       |   11B.net
+|       |   12B.net
+|       |   13B.net
+|       |   14B.net
+|       |   2.net
+|       |   3.net
+|       |   4.net
+|       |   5B.net
+|       |   6B.net
+|       |   7B.net
+|       |   8B.net
+|       |   9B.net
+|       |   
+|       \---psdata_partb
+|               answer.json
+|               
++---46DB3BB0C92E8E2E5528E02227B33251
+|   |   original.html.u3enc
+|   |   questionData.js.u3enc
+|   |   repeat.html.u3enc
+|   |   
+|   +---media
+|   |       2.2-ZC.mp3 三问第二问作者回答
+|   |       2.2.1.mp3 三问第二问第1种答案
+|   |       2.2.2.mp3 三问第二问第2种答案
+|   |       
+|   \---net
+|       |   1.net
+|       |   10B.net
+|       |   2.net
+|       |   3.net
+|       |   4B.net
+|       |   5B.net
+|       |   6B.net
+|       |   7B.net
+|       |   8B.net
+|       |   9B.net
+|       |   
+|       \---psdata_partb
+|               answer.json
+|               
++---4F8512C6741B28977F5CCC73CFC64DB4
+|   |   original.html.u3enc
+|   |   questionData.js.u3enc
+|   |   repeat.html.u3enc
+|   |   
+|   +---media
+|   |       3.5-ZC.mp3
+|   |       3.5.1.mp3 五答第五答第1种答案
+|   |       3.5.2.mp3 五答第五答第2种答案
+|   |       AE7359048699CB1FFE1AA33DC1E34BFF.mp3 五答第五答作者问题
+|   |       
+|   \---net
+|       |   1.net
+|       |   2.net
+|       |   3.net
+|       |   4.net
+|       |   5B.net
+|       |   6B.net
+|       |   7B.net
+|       |   8B.net
+|       |   9B.net
+|       |   
+|       \---psdata_partb
+|               answer.json
+|               
++---60663DB7946FC167473850485FCCC279
+|   |   original.html.u3enc
+|   |   questionData.js.u3enc
+|   |   repeat.html.u3enc
+|   |   
+|   +---media
+|   |       partc-ZC.mp3 PartC答案
+|   |       
+|   \---net
+|       |   1.net
+|       |   10.net
+|       |   11.net
+|       |   12.net
+|       |   13.net
+|       |   14.net
+|       |   15.net
+|       |   16.net
+|       |   2.net
+|       |   3.net
+|       |   4.net
+|       |   5.net
+|       |   6.net
+|       |   7.net
+|       |   8.net
+|       |   9.net
+|       |   
+|       \---psdata_new
+|               answer.json
+|               
++---B7CA51F876EBF86F9640C77FAE59A4D1
+|   |   original.html.u3enc
+|   |   questionData.js.u3enc
+|   |   repeat.html.u3enc
+|   |   
+|   +---media
+|   |       3.2-ZC.mp3
+|   |       3.2.1.mp3 五答第二答第1种答案
+|   |       3.2.2.mp3 五答第二答第2种答案
+|   |       ECFBF7AF6182C8DEB45FEED8A2153F4D.mp3 五答第二答作者问题
+|   |       
+|   \---net
+|       |   1.net
+|       |   10B.net
+|       |   11B.net
+|       |   12B.net
+|       |   13B.net
+|       |   14B.net
+|       |   2.net
+|       |   3.net
+|       |   4.net
+|       |   5.net
+|       |   6.net
+|       |   7.net
+|       |   8.net
+|       |   9B.net
+|       |   
+|       \---psdata_partb
+|               answer.json
+|               
+\---D7D585BD3BE55C5A5E4A30DCA1122D83
+    |   original.html.u3enc
+    |   questionData.js.u3enc
+    |   repeat.html.u3enc
+    |   
+    +---media
+    |       2.3-ZC.mp3 三问第三问作者回答
+    |       2.3.1.mp3 三问第三问第1种答案
+    |       2.3.2.mp3 三问第三问第2种答案
+    |       
+    \---net
+        |   1.net
+        |   10B.net
+        |   11B.net
+        |   12B.net
+        |   13B.net
+        |   14B.net
+        |   15B.net
+        |   2.net
+        |   3.net
+        |   4.net
+        |   5B.net
+        |   6B.net
+        |   7B.net
+        |   8B.net
+        |   9B.net
+        |   
+        \---psdata_partb
+                answer.json
+                

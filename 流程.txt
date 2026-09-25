@@ -1,0 +1,40 @@
+1.等待播放欢迎语 E:\Up366StudentFiles\flipbooks\4A43FDC0B7CE8701415B6E28D0B37B23\bookres\media\1welcome.mp3
+2.等待播放PartA介绍语 E:\Up366StudentFiles\flipbooks\4A43FDC0B7CE8701415B6E28D0B37B23\bookres\media\2partazhishi1.mp3
+3.等待播放PartA视频 秒数视具体情况
+4.等待播放1分钟准备提示 E:\Up366StudentFiles\flipbooks\4A43FDC0B7CE8701415B6E28D0B37B23\bookres\media\3parta1min.mp3
+5.等待1分钟准备 60s
+6.等待再听一遍原文提示  E:\Up366StudentFiles\flipbooks\4A43FDC0B7CE8701415B6E28D0B37B23\bookres\media\4parta1again.mp3
+7.等待5秒准备时间 5s
+8.等待再次播放原文 秒数视具体情况
+9.等待播放现在开始录音提示 E:\Up366StudentFiles\flipbooks\4A43FDC0B7CE8701415B6E28D0B37B23\bookres\media\5parta1read.mp3
+10.等待5秒准备时间 5s
+11.等待播放beep提示音 E:\Up366StudentFiles\flipbooks\4A43FDC0B7CE8701415B6E28D0B37B23\bookres\media\beep.mp3
+12.开始播放PartA答案 秒数视具体情况
+13.等待播放PartB介绍语 E:\Up366StudentFiles\flipbooks\4A43FDC0B7CE8701415B6E28D0B37B23\bookres\media\6partbzhishi.mp3
+14.等待3秒准备时间 3s
+15.等待播放PartB视频 秒数视具体情况
+16.等待播放三问提示 E:\Up366StudentFiles\flipbooks\4A43FDC0B7CE8701415B6E28D0B37B23\bookres\media\7partbsanwen.mp3
+接下来，三个问题的流程是重复的：
+1.等待20秒准备时间 20s 
+2.等待播放beep提示音 E:\Up366StudentFiles\flipbooks\4A43FDC0B7CE8701415B6E28D0B37B23\bookres\media\beep.mp3 
+3.播放当问答案，注意每个问题的回答时间有10秒，播放完答案后还要等待（10-当问答案时长）秒 
+4.等待播放本题作者回答 秒数视具体情况 
+5.等待2秒准备时间 2s
+6.等待再次播放本题作者回答 秒数视具体情况
+以此重复3遍。
+17.等待播放五答介绍语 
+再接下来，五个回答的流程也是重复的：
+1.等待播放五答介绍语 E:\Up366StudentFiles\flipbooks\4A43FDC0B7CE8701415B6E28D0B37B23\bookres\media\9partbwuda.mp3
+2.等待播放问题 秒数视具体情况
+3.等待2秒准备时间 2s
+4.等待再次播放问题 秒数视具体情况
+5.等待10秒准备时间 10s
+6.等待播放beep提示音 E:\Up366StudentFiles\flipbooks\4A43FDC0B7CE8701415B6E28D0B37B23\bookres\media\beep.mp3 
+7.播放当问答案，注意每个问题的回答时间有10秒，播放完答案后还要等待（10-当问答案时长）秒
+以此重复3遍。
+18.等待播放PartC介绍语 E:\Up366StudentFiles\flipbooks\4A43FDC0B7CE8701415B6E28D0B37B23\bookres\media\10partczhishi.mp3
+19.等待15秒准备时间 15s
+20.等待播放原文 秒数视具体情况
+21.等待2秒准备时间 2s
+22.等待播放原文 秒数视具体情况
+后面的流程还未列出，请预留添加
